@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(226, 174, 76);
+}
+header div{
+    background-color: rgb(255, 136, 0);
+    justify-content: space-around;
+    display: flex;
+    color: white;
+    font-style: italic;
+    align-items: center;
+    font-size: 10px;
+}
+header div p{
+    font-size: 20px;
+    color: rgba(211, 212, 218, 0.80);
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+    padding: 1.5px;
+
+}
+header div h1{
+    color: black;
+    font-size: 35px;
+}
+.paniermenu{
+    text-decoration: none;
+    font-size: 20px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+    padding: 1.5px;
+    color: white;
+}
+.paniermenu:hover{
+    color: green;
+    background-color: white;
+}
+div h2{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+div p{
+    color: black;
+    background-color: rgba(220, 128, 74, 0.80);
+    font-size: 25px;
+}
+div h3{
+    color: black;
+    
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
+}

@@ -1,0 +1,23 @@
+h1{
+    background-color: gray;
+    justify-content: space-around;
+    display: flex;
+    color: white;
+    font-style: italic;
+    align-items: center;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    
+    
+   
+   
+}
+a:hover{
+    color: red;
+
+}
